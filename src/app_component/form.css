@@ -1,0 +1,29 @@
+form {
+    margin-top: 5rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"] {
+    background-color: transparent;
+    color:black;
+    border-style: none; 
+    border-bottom: SOLID GREY;
+    border-radius: 0;
+    font-size: 20px;
+  }
+  form button
+
+  {
+    color:grey;
+    background-color: black;
+    font-size: 25px;
+    cursor: grab;
+  }
+
+  .alert
+  {
+
+    color:red;
+    font-weight:bold ;
+    font-size: 20px;
+  }
